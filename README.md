@@ -3,7 +3,7 @@
 <div align="center"><img src="https://c.tenor.com/0LwfwSfKNgwAAAAC/baby-yoda-the-mandalorian.gif" width="280" height="230"  /> </div>
 
 
-Hello ! I'm Başak Erdoğan, a junior software engineer at Huawei. ✨✨  
+Hello ! I'm Başak Erdoğan, a software engineer at Vispera. ✨✨  
 <li>  💻 I’m currently working with Python.</li>
 <li> 🌱 I'm currently learning Spring Framework</li>
 <li> 📫 How to reach me: edabasakerdogan@gmail.com </li>
