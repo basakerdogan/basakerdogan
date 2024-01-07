@@ -37,5 +37,5 @@ Hello ! I'm Başak Erdoğan. ✨✨
 
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/basakerdogan/basakerdogan/output/snake.svg" alt="Snake animation" />
 
