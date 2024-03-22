@@ -6,11 +6,6 @@
 Hello ! I'm Başak Erdoğan. ✨✨  
 <li>  💻 I’m currently working with restful backend services and security </li>
 <li> 📫 How to reach me: edabasakerdogan@gmail.com </li>
-
-
-
-<br/>  
-- ❓ Ask me about anything related to Python and related technologies  
   
 
 <br/>  
