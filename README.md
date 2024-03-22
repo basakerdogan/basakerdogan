@@ -9,4 +9,16 @@ Hello ! I'm Başak Erdoğan. ✨✨
 
 
 
+<br/>  
 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basakerdogan&hide_border=true&layout=compact&langs_count=5&theme=dracula&card_width=360" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zbatuhan&&style=flat-square" align="center" />
+</div>  
+  
+<br/>  
