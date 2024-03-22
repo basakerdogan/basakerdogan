@@ -18,7 +18,7 @@ Hello ! I'm Başak Erdoğan. ✨✨
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zbatuhan&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=basakerdogan&&style=flat-square" align="center" />
 </div>  
   
 <br/>  
