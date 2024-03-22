@@ -4,7 +4,7 @@
 
 
 Hello ! I'm Başak Erdoğan. ✨✨  
-<li>  💻 I’m currently working with Java</li>
+<li>  💻 I’m currently working with restful backend services and security </li>
 <li> 📫 How to reach me: edabasakerdogan@gmail.com </li>
 
 
