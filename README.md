@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello there! 🚀 I'm Başak</h1>
-<div align="center"> ![image.png](cyber-jarvis.jpg)
+<div align="center"> ![](cyber-jarvis.png)
 
 </div>
 
