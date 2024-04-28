@@ -1,6 +1,8 @@
 
 <h2 align="center">Hello there! 🚀 I'm Başak</h1>
-<div align="center"><img src="[https://c.tenor.com/0LwfwSfKNgwAAAAC/baby-yoda-the-mandalorian.gif](https://www.bing.com/images/create/hacker-iron-man-cute-pixel/1-662ad892dd2f45f0a756a3cc6a7bd2e3?id=1c%2bSHNjY3zXxh9JjKdcl1A%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.EV_F4G1xQ_Xa32BENOOg&idpbck=1&form=BICREC&idpview=singleimage&idpo=col&thid=OIG4.EV_F4G1xQ_Xa32BENOOg)" width="280" height="230"  /> </div>
+<div align="center"> ![image.png](cyber-jarvis.jpg)
+
+</div>
 
 
 Hello ! I'm Başak Erdoğan. ✨✨  
