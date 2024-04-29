@@ -2,7 +2,7 @@
 <h2 align="center">Hello there! 🚀 I'm Başak</h1>
 
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIG1.yI92r6rdPS3ad2VPB1un?w=512&h=512&rs=1&pid=ImgDetMain" alt="Cyber Jarvis" width="300"/>
+  <img src="https://th.bing.com/th/id/OIG4.EV_F4G1xQ_Xa32BENOOg?pid=ImgGn" alt="Cyber Jarvis" width="300"/>
 </div>
 
 <br/>
