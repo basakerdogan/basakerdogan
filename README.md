@@ -1,8 +1,10 @@
 
 <h2 align="center">Hello there! 🚀 I'm Başak</h1>
 
+
 <div align="center">
   <img src="https://th.bing.com/th/id/OIG4.EV_F4G1xQ_Xa32BENOOg?pid=ImgGn" alt="Cyber Jarvis" width="300"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/basakerdogan.png" alt="TryHackMe">
 </div>
 
 <br/>
@@ -11,7 +13,6 @@
 Hello ! I'm Başak Erdoğan. ✨✨  
 <li>  💻 I’m currently working with restful backend services and security </li>
 <li> 📫 How to reach me: edabasakerdogan@gmail.com </li>
-  
 
 <br/>  
 
