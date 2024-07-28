@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIG4.EV_F4G1xQ_Xa32BENOOg?pid=ImgGn" alt="Cyber Jarvis" width="300"/>
+  <img src="https://th.bing.com/th/id/OIG2.ZkTmPeNc97jaz.qe3xGI?pid=ImgGn width="300"/>
 
 </div>
 
