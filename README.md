@@ -3,8 +3,7 @@
 
 
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIG2.ZkTmPeNc97jaz.qe3xGI?pid=ImgGn width="300"/>
-
+  <img src="https://th.bing.com/th/id/OIG2.ZkTmPeNc97jaz.qe3xGI?pid=ImgGn" alt="img" width="300"/>
 </div>
 
 <br/>
