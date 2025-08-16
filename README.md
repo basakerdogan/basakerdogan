@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="bn.png" alt="img" width="300"/>
+  <img src="Image from iOS (2).jpg" alt="img" width="300"/>
 </div>
 
 <br/>
